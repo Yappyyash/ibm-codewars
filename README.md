@@ -1,0 +1,2 @@
+# ibm-codewars
+earthquake model
